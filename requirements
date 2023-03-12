@@ -5,3 +5,4 @@ mediapipe
 av
 webbrowser
 keras
+streamlit_webrtc
