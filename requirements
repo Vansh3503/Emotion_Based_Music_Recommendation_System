@@ -5,4 +5,6 @@ mediapipe
 av
 webbrowser
 keras
-streamlit-webrtc
+streamlit_webrtc==0.44.0
+typing_extensions==4.1.1
+protobuf~=3.19.0
